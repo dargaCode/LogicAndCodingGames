@@ -2,7 +2,7 @@
 
 Programming-related games are a very popular topic on Reddit and elsewhere. I've accumulated a ton of browser bookmarks, and finally sorted through them all. 
 
-These are the games I find most interesting and/or have seen recommended most often:   
+These are the games I find most interesting and/or have seen recommended most often: 
 
 <table>
   <thead>
@@ -41,7 +41,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://checkio.org/">CheckiO</a></td>
+      <td><strong><a href="https://checkio.org/">CheckiO</a></strong></td>
       <td>Browser</td>
       <td></td>
       <td></td>
@@ -105,7 +105,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://store.steampowered.com/app/427520/">Factorio</a></td>
+      <td><strong><a href="http://store.steampowered.com/app/427520/">Factorio</a></strong></td>
       <td></td>
       <td>PC</td>
       <td></td>
@@ -129,7 +129,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://glitchspace.com/">GlitchSpace</a></td>
+      <td><strong><a href="http://glitchspace.com/">GlitchSpace</a></strong></td>
       <td></td>
       <td>PC</td>
       <td></td>
@@ -137,7 +137,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://store.steampowered.com/app/246070/">Hack 'n' Slash</a></td>
+      <td><strong><a href="http://store.steampowered.com/app/246070/">Hack 'n' Slash</a></strong></td>
       <td></td>
       <td>PC</td>
       <td></td>
@@ -193,7 +193,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://playthehook.com/">HOOK</a></td>
+      <td><strong><a href="http://playthehook.com/">HOOK</a></strong></td>
       <td></td>
       <td>PC</td>
       <td>iOS</td>
@@ -201,7 +201,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://store.steampowered.com/app/375820/">Human Resource Machine</a></td>
+      <td><strong><a href="http://store.steampowered.com/app/375820/">Human Resource Machine</a></strong></td>
       <td></td>
       <td>PC</td>
       <td></td>
@@ -209,7 +209,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://www.zachtronics.com/infinifactory/">Infinifactory</a></td>
+      <td><strong><a href="http://www.zachtronics.com/infinifactory/">Infinifactory</a></strong></td>
       <td></td>
       <td>PC</td>
       <td></td>
@@ -265,7 +265,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://pleasingfungus.com/Manufactoria/">Manufactoria</a></td>
+      <td><strong><a href="http://pleasingfungus.com/Manufactoria/">Manufactoria</a></strong></td>
       <td>Browser</td>
       <td></td>
       <td></td>
@@ -297,7 +297,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://regexcrossword.com/">Regex Crossword</a></td>
+      <td><strong><a href="https://regexcrossword.com/">Regex Crossword</a></strong></td>
       <td>Browser</td>
       <td></td>
       <td></td>
@@ -329,7 +329,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://www.zachtronics.com/spacechem/">SpaceChem</a></td>
+      <td><strong><a href="http://www.zachtronics.com/spacechem/">SpaceChem</a></strong></td>
       <td></td>
       <td>PC</td>
       <td></td>
@@ -377,7 +377,7 @@ These are the games I find most interesting and/or have seen recommended most of
       <td></td>
     </tr>
     <tr>
-      <td><a href="http://www.zachtronics.com/tis-100/">TIS-100</a></td>
+      <td><strong><a href="http://www.zachtronics.com/tis-100/">TIS-100</a></strong></td>
       <td></td>
       <td>PC</td>
       <td>iOS</td>
