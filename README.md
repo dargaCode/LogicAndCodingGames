@@ -19,17 +19,17 @@
 * [Hacker.org](http://www.hacker.org/) - BROWSER
 * [Hacknet](http://store.steampowered.com/app/365450/) - PC
 * [Hard Logic](http://ombgames.com/?p=10) - IOS / ANDROID
-* [Hexcells Infinite](hhttp://www.matthewbrowngames.com/hexcellsinfinite.html) - PC / IOS
-* [Hexcells Infinite](http://www.matthewbrowngames.com/hexcellsplus.html) - PC / IOS
 * [Hexcells](http://www.matthewbrowngames.com/hexcells.html) - PC / IOS
+* [Hexcells Plus](http://www.matthewbrowngames.com/hexcellsplus.html) - PC / IOS
+* [Hexcells Infinite](http://www.matthewbrowngames.com/hexcellsinfinite.html) - PC / IOS
 * [HOOK](http://playthehook.com/) - PC / IOS / ANDROID
 * [Human Resource Machine](http://store.steampowered.com/app/375820/) - PC
 * [Infinifactory](http://www.zachtronics.com/infinifactory/) - PC / PS4
 * [Kohctpyktop: Engineer of the People](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/) - BROWSER
 * [Learn Git Branching](http://learngitbranching.js.org/) - BROWSER
+* [Light-Bot](http://www.kongregate.com/games/Coolio_Niato/light-bot) - BROWSER
 * [Light-Bot 2.0](http://www.kongregate.com/games/Coolio_Niato/lighbot-2-0) - BROWSER
 * [Light-Bot Rewired](http://www.kongregate.com/games/Coolio_Niato/light-bot-rewired) - BROWSER
-* [Light-Bot](http://www.kongregate.com/games/Coolio_Niato/light-bot) - BROWSER
 * [Logic Box](https://logicbox.jahooma.com/) - BROWSER
 * [Manufactoria](http://pleasingfungus.com/Manufactoria/) - BROWSER
 * [Mini Metro](http://store.steampowered.com/app/287980/) - PC
