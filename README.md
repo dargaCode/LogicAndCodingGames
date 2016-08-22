@@ -75,6 +75,14 @@ This list doesn't include programming challenge sites like HackerRank et al. The
       <td></td>
     </tr>
     <tr>
+      <td><a href="http://david-peter.de/cube-composer/">Cube Composer</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="https://sites.google.com/site/droidquest/Home/downloads">Droid Quest</a></td>
       <td></td>
       <td>PC</td>
