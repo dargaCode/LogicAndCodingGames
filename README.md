@@ -2,7 +2,9 @@
 
 Programming-related games are a very popular topic on Reddit and elsewhere. I've accumulated a ton of browser bookmarks, and finally sorted through them all. 
 
-These are the games I find most interesting and/or have seen recommended most often: 
+These are the games I find most interesting and/or have seen recommended most often. Some of them actually attempt to teach you a real programming language, and some are just logic puzzles. 
+
+This list doesn't include programming challenge sites like HackerRank et al. They're arguably very similar to puzzles, but they're not gamey enough for relaxation purposes. 
 
 <table>
   <thead>
