@@ -1,6 +1,8 @@
 #Logic and Coding Games
 
-Over the past year I've gathered a lot of browser bookmarks, Reddit threads, and mental notes related to games I'd like to try out. More or less I just want to be greedy and feel like I'm still improving my brain when I'm too tired to study for real. 
+Programming-related games are a very popular topic on Reddit and elsewhere. I've accumulated a ton of browser bookmarks, and finally sorted through them all. 
+
+These are the games I find most interesting and/or have seen recommended most often:   
 
 <table>
   <thead>
