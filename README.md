@@ -11,10 +11,10 @@ This list doesn't include programming challenge sites like HackerRank et al. The
     <tr>
       <th>Game</th>
       <th>Browser</th>
-      <th>PC</th>
-      <th>iOS</th>
+      <th>PC&nbsp;&nbsp;</th>
+      <th>iOS&nbsp;</th>
       <th>Android</th>
-      <th>PS4</th>
+      <th>PS4&nbsp;</th>
     </tr>
   </thead>
   <tbody>
