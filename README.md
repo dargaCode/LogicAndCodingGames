@@ -2,57 +2,428 @@
 
 Over the past year I've gathered a lot of browser bookmarks, Reddit threads, and mental notes related to games I'd like to try out. More or less I just want to be greedy and feel like I'm still improving my brain when I'm too tired to study for real. 
 
-* [Big Pharma](http://store.steampowered.com/app/344850/) - PC
-* [Bureau of Steam Engineering](http://www.zachtronics.com/the-bureau-of-steam-engineering/) - BROWSER
-* [Cargo-Bot](http://twolivesleft.com/CargoBot/) - IOS
-* [CheckiO](https://checkio.org/) - BROWSER
-* [CodeCombat](https://codecombat.com/play) - BROWSER
-* [CodeMonkey](https://www.playcodemonkey.com/) - BROWSER
-* [CodinGame](https://www.codingame.com/start) - BROWSER
-* [Droid Quest](https://sites.google.com/site/droidquest/Home/downloads) - PC
-* [Elevator Saga](http://play.elevatorsaga.com/) - BROWSER
-* [Else Heart.Break()](http://elseheartbreak.com/) - PC
-* [Empire of Code](https://empireofcode.com/) - BROWSER
-* [Factorio](http://store.steampowered.com/app/427520/) - PC
-* [Flexbox Defense](http://www.flexboxdefense.com/) - BROWSER
-* [Flexbox Froggy](http://flexboxfroggy.com/) - BROWSER
-* [GlitchSpace](http://glitchspace.com/) - PC
-* [Hack 'n' Slash](http://store.steampowered.com/app/246070/) - PC
-* [Hacker.org](http://www.hacker.org/) - BROWSER
-* [Hacknet](http://store.steampowered.com/app/365450/) - PC
-* [Hard Logic](http://ombgames.com/?p=10) - IOS / ANDROID
-* [Hexcells](http://www.matthewbrowngames.com/hexcells.html) - PC / IOS
-* [Hexcells Plus](http://www.matthewbrowngames.com/hexcellsplus.html) - PC / IOS
-* [Hexcells Infinite](http://www.matthewbrowngames.com/hexcellsinfinite.html) - PC / IOS
-* [HOOK](http://playthehook.com/) - PC / IOS / ANDROID
-* [Human Resource Machine](http://store.steampowered.com/app/375820/) - PC
-* [Infinifactory](http://www.zachtronics.com/infinifactory/) - PC / PS4
-* [Kohctpyktop: Engineer of the People](http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/) - BROWSER
-* [Learn Git Branching](http://learngitbranching.js.org/) - BROWSER
-* [Light-Bot](http://www.kongregate.com/games/Coolio_Niato/light-bot) - BROWSER
-* [Light-Bot 2.0](http://www.kongregate.com/games/Coolio_Niato/lighbot-2-0) - BROWSER
-* [Light-Bot Rewired](http://www.kongregate.com/games/Coolio_Niato/light-bot-rewired) - BROWSER
-* [Logic Box](https://logicbox.jahooma.com/) - BROWSER
-* [Manufactoria](http://pleasingfungus.com/Manufactoria/) - BROWSER
-* [Mini Metro](http://store.steampowered.com/app/287980/) - PC
-* [Nonograms](http://www.puzzle-nonograms.com/) - BROWSER
-* [Quell](http://www.fallentreegames.com/games/quell/) - IOS / ANDROID
-* [Regex Crossword](https://regexcrossword.com/) - BROWSER
-* [ReGeX](https://github.com/phikal/ReGeX) - ANDROID
-* [RoboZZle](http://robozzle.com/) - BROWSER / MOBILE
-* [Screeps](https://screeps.com/) - BROWSER
-* [SpaceChem](http://www.zachtronics.com/spacechem/) - PC / ANDROID
-* [Spectral: Light Puzzle](http://www.mxplmr.com/) - IOS
-* [The git-game](https://www.git-game.com/) - PC
-* [The Sequence](http://ombgames.com/?p=5) - PC / IOS / ANDROID
-* [The Swapper](http://facepalmgames.com/the-swapper/) - PC / PS4
-* [The Talos Principle](http://store.steampowered.com/app/257510/?snr=1_5_1100__1100) - PC
-* [TIS-100](http://www.zachtronics.com/tis-100/) - PC / IOS
-* [Trainyard](http://www.trainyard.ca/) - IOS / ANDROID
-* [VIM Adventures](http://vim-adventures.com/) - BROWSER
-* [Vindinium](http://vindinium.org/) - BROWSER
-* [War Games](http://overthewire.org/wargames/) - BROWSER
-* [WarriorJS](https://github.com/olistic/warriorjs) - PC
+<table>
+  <thead>
+    <tr>
+      <th>Game</th>
+      <th>Browser</th>
+      <th>PC</th>
+      <th>iOS</th>
+      <th>Android</th>
+      <th>PS4</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="http://store.steampowered.com/app/344850/">Big Pharma</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.zachtronics.com/the-bureau-of-steam-engineering/">Bureau of Steam Engineering</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://twolivesleft.com/CargoBot/">Cargo-Bot</a></td>
+      <td></td>
+      <td></td>
+      <td>iOS</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://checkio.org/">CheckiO</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://codecombat.com/play">CodeCombat</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.playcodemonkey.com/">CodeMonkey</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.codingame.com/start">CodinGame</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://sites.google.com/site/droidquest/Home/downloads">Droid Quest</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://play.elevatorsaga.com/">Elevator Saga</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://elseheartbreak.com/">Else Heart.Break()</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://empireofcode.com/">Empire of Code</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://store.steampowered.com/app/427520/">Factorio</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.flexboxdefense.com/">Flexbox Defense</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://flexboxfroggy.com/">Flexbox Froggy</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://glitchspace.com/">GlitchSpace</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://store.steampowered.com/app/246070/">Hack 'n' Slash</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.hacker.org/">Hacker.org</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://store.steampowered.com/app/365450/">Hacknet</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://ombgames.com/?p=10">Hard Logic</a></td>
+      <td></td>
+      <td></td>
+      <td>iOS</td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.matthewbrowngames.com/hexcells.html">Hexcells</a></td>
+      <td></td>
+      <td>PC</td>
+      <td>iOS</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.matthewbrowngames.com/hexcellsplus.html">Hexcells Plus</a></td>
+      <td></td>
+      <td>PC</td>
+      <td>iOS</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.matthewbrowngames.com/hexcellsinfinite.html">Hexcells Infinite</a></td>
+      <td></td>
+      <td>PC</td>
+      <td>iOS</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://playthehook.com/">HOOK</a></td>
+      <td></td>
+      <td>PC</td>
+      <td>iOS</td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://store.steampowered.com/app/375820/">Human Resource Machine</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.zachtronics.com/infinifactory/">Infinifactory</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td>PS4</td>
+    </tr>
+    <tr>
+      <td><a href="http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/">Kohctpyktop: Engineer of the People</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://learngitbranching.js.org/">Learn Git Branching</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.kongregate.com/games/Coolio_Niato/light-bot">Light-Bot</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.kongregate.com/games/Coolio_Niato/lighbot-2-0">Light-Bot 2.0</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.kongregate.com/games/Coolio_Niato/light-bot-rewired">Light-Bot Rewired</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://logicbox.jahooma.com/">Logic Box</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://pleasingfungus.com/Manufactoria/">Manufactoria</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://store.steampowered.com/app/287980/">Mini Metro</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.puzzle-nonograms.com/">Nonograms</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.fallentreegames.com/games/quell/">Quell</a></td>
+      <td></td>
+      <td></td>
+      <td>iOS</td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://regexcrossword.com/">Regex Crossword</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/phikal/ReGeX">ReGeX</a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://robozzle.com/">RoboZZle</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td>iOS</td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://screeps.com/">Screeps</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.zachtronics.com/spacechem/">SpaceChem</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.mxplmr.com/">Spectral: Light Puzzle</a></td>
+      <td></td>
+      <td></td>
+      <td>iOS</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://www.git-game.com/">The git-game</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://ombgames.com/?p=5">The Sequence</a></td>
+      <td></td>
+      <td>PC</td>
+      <td>iOS</td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://facepalmgames.com/the-swapper/">The Swapper</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td>PS4</td>
+    </tr>
+    <tr>
+      <td><a href="http://store.steampowered.com/app/257510/?snr=1_5_1100__1100">The Talos Principle</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.zachtronics.com/tis-100/">TIS-100</a></td>
+      <td></td>
+      <td>PC</td>
+      <td>iOS</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://www.trainyard.ca/">Trainyard</a></td>
+      <td></td>
+      <td></td>
+      <td>iOS</td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://vim-adventures.com/">VIM Adventures</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://vindinium.org/">Vindinium</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://overthewire.org/wargames/">War Games</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/olistic/warriorjs">WarriorJS</a></td>
+      <td></td>
+      <td>PC</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 ##Sources
 
