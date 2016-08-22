@@ -1,5 +1,7 @@
 #Logic and Coding Games
 
+Over the past year I've gathered a lot of browser bookmarks, Reddit threads, and mental notes related to games I'd like to try out. More or less I just want to be greedy and feel like I'm still improving my brain when I'm too tired to study for real. 
+
 * [Big Pharma](http://store.steampowered.com/app/344850/) - PC
 * [Bureau of Steam Engineering](http://www.zachtronics.com/the-bureau-of-steam-engineering/) - BROWSER
 * [Cargo-Bot](http://twolivesleft.com/CargoBot/) - IOS
