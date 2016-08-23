@@ -214,7 +214,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
       <td><strong><a href="http://store.steampowered.com/app/375820/">Human Resource Machine</a></strong></td>
       <td></td>
       <td>PC</td>
-      <td></td>
+      <td>iOS</td>
       <td></td>
       <td></td>
     </tr>
