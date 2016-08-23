@@ -6,6 +6,8 @@ These are the games I find most interesting and/or have seen recommended most of
 
 This list doesn't contain programming challenge sites like HackerRank. They're arguably very similar to puzzles, but for my purposes they're not "gamey" enough to include.
 
+*Note: When I say "PC" I just mean laptop/desktop, not necessarily Windows. Most of the "PC" games are available on Steam, which AFAIK has decent cross-platform support between Windows/Mac/Linux.* 
+
 <table>
   <thead>
     <tr>
