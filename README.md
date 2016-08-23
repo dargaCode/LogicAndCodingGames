@@ -83,6 +83,14 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
       <td></td>
     </tr>
     <tr>
+      <td><a href="https://deadlockempire.github.io/">Deadlock Empire</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="https://sites.google.com/site/droidquest/Home/downloads">Droid Quest</a></td>
       <td></td>
       <td>Desktop</td>
