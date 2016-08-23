@@ -6,14 +6,12 @@ These are the games I find most interesting and/or have seen recommended most of
 
 This list doesn't contain programming challenge sites like HackerRank. They're arguably very similar to puzzles, but for my purposes they're not "gamey" enough to include.
 
-*Note: When I say "PC" I just mean laptop/desktop, not necessarily Windows. Most of the "PC" games are available on Steam, which AFAIK has decent cross-platform support between Windows/Mac/Linux.* 
-
 <table>
   <thead>
     <tr>
       <th>Game</th>
       <th>Browser</th>
-      <th>PC&nbsp;&nbsp;</th>
+      <th>Desktop</th>
       <th>iOS&nbsp;</th>
       <th>Android</th>
       <th>PS4&nbsp;</th>
@@ -23,7 +21,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://store.steampowered.com/app/344850/">Big Pharma</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -87,7 +85,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="https://sites.google.com/site/droidquest/Home/downloads">Droid Quest</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -103,7 +101,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://elseheartbreak.com/">Else Heart.Break()</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -119,7 +117,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><strong><a href="http://store.steampowered.com/app/427520/">Factorio</a></strong></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -143,7 +141,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><strong><a href="http://glitchspace.com/">GlitchSpace</a></strong></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -151,7 +149,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><strong><a href="http://store.steampowered.com/app/246070/">Hack 'n' Slash</a></strong></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -167,7 +165,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://store.steampowered.com/app/365450/">Hacknet</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -183,7 +181,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://www.matthewbrowngames.com/hexcells.html">Hexcells</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td>iOS</td>
       <td></td>
       <td></td>
@@ -191,7 +189,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://www.matthewbrowngames.com/hexcellsplus.html">Hexcells Plus</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td>iOS</td>
       <td></td>
       <td></td>
@@ -199,7 +197,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://www.matthewbrowngames.com/hexcellsinfinite.html">Hexcells Infinite</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td>iOS</td>
       <td></td>
       <td></td>
@@ -207,7 +205,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><strong><a href="http://playthehook.com/">HOOK</a></strong></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td>iOS</td>
       <td>Android</td>
       <td></td>
@@ -215,7 +213,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><strong><a href="http://store.steampowered.com/app/375820/">Human Resource Machine</a></strong></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td>iOS</td>
       <td></td>
       <td></td>
@@ -223,7 +221,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><strong><a href="http://www.zachtronics.com/infinifactory/">Infinifactory</a></strong></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td>PS4</td>
@@ -287,7 +285,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://store.steampowered.com/app/287980/">Mini Metro</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -343,7 +341,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><strong><a href="http://www.zachtronics.com/spacechem/">SpaceChem</a></strong></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td>Android</td>
       <td></td>
@@ -359,7 +357,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="https://www.git-game.com/">The git-game</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -367,7 +365,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://ombgames.com/?p=5">The Sequence</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td>iOS</td>
       <td>Android</td>
       <td></td>
@@ -375,7 +373,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://facepalmgames.com/the-swapper/">The Swapper</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td>PS4</td>
@@ -383,7 +381,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="http://store.steampowered.com/app/257510/?snr=1_5_1100__1100">The Talos Principle</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
@@ -391,7 +389,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><strong><a href="http://www.zachtronics.com/tis-100/">TIS-100</a></strong></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td>iOS</td>
       <td></td>
       <td></td>
@@ -431,7 +429,7 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
     <tr>
       <td><a href="https://github.com/olistic/warriorjs">WarriorJS</a></td>
       <td></td>
-      <td>PC</td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
