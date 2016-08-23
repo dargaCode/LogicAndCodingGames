@@ -419,6 +419,14 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
       <td></td>
     </tr>
     <tr>
+      <td><strong><a href="https://alexnisnevich.github.io/untrusted/">Untrusted</a></strong></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="http://vim-adventures.com/">VIM Adventures</a></td>
       <td>Browser</td>
       <td></td>
