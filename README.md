@@ -243,6 +243,14 @@ This list doesn't contain programming challenge sites like HackerRank. They're a
       <td></td>
     </tr>
     <tr>
+      <td><strong><a href="http://www.stateofplaygames.com/work/kami/">Kami</a></strong></td>
+      <td></td>
+      <td>Desktop</td>
+      <td>iOS</td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/">Kohctpyktop: Engineer of the People</a></td>
       <td>Browser</td>
       <td></td>
