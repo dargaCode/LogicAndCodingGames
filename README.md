@@ -1,10 +1,10 @@
 #Logic and Coding Games
 
-Programming-related games are a very popular topic on Reddit and elsewhere. Over the past year I accumulated a ton of browser bookmarks, and I've finally sorted through them all. 
+Programming-related games are a very popular topic on Reddit and elsewhere. Over the past year I accumulated a ton of saved links, and I've finally sorted through them all. 
 
 These are the games I find most interesting and/or have seen recommended most often. Some of them actually attempt to teach you a real programming language, and some are more about logical thinking. 
 
-This list doesn't contain programming challenge sites like HackerRank. They're arguably very similar to puzzles, but for my purposes they're not "gamey" enough to include.
+This list doesn't contain programming challenge sites like HackerRank. Those are arguably very similar to puzzles, but for my purposes they're not "gamey" enough to include.
 
 <table>
   <thead>
