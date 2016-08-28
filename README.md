@@ -339,6 +339,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
+      <td><a href="http://store.steampowered.com/app/240440/">Quadrilateral Cowboy</a></td>
+      <td></td>
+      <td>Desktop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><strong><a href="https://regexcrossword.com/">Regex Crossword</a></strong></td>
       <td>Browser</td>
       <td></td>
