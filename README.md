@@ -373,7 +373,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
     <tr>
       <td><a href="https://screeps.com/">Screeps</a></td>
       <td>Browser</td>
-      <td></td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
