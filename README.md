@@ -67,6 +67,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
+      <td><a href="https://codespells.org/">CodeSpells</a></td>
+      <td>Desktop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="https://www.codingame.com/start">CodinGame</a></td>
       <td>Browser</td>
       <td></td>
