@@ -68,8 +68,8 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
     </tr>
     <tr>
       <td><a href="https://codespells.org/">CodeSpells</a></td>
-      <td>Desktop</td>
       <td></td>
+      <td>Desktop</td>
       <td></td>
       <td></td>
       <td></td>
