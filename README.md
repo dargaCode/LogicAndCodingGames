@@ -27,6 +27,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
+      <td><a href="https://blockly-games.appspot.com/?lang=en">Blockly Games/a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="http://www.zachtronics.com/the-bureau-of-steam-engineering/">Bureau of Steam Engineering</a></td>
       <td>Browser</td>
       <td></td>
