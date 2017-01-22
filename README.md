@@ -1,3 +1,8 @@
+###*My Other Resource Lists*
+
+* *[Web Development Study Resources](https://github.com/dargaCode/WebDevStudyResources/blob/master/README.md)*
+* *[Portfolio Examples](https://github.com/dargaCode/PortfolioExamples)*
+
 #Logic and Coding Games
 
 Programming-related games are a very popular topic on Reddit and elsewhere. Over the past year I accumulated a ton of saved links, and I've finally sorted through them all. 
