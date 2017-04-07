@@ -1,9 +1,9 @@
-###*My Other Resource Lists*
+### My Other Resource Lists
 
 * *[Web Development Study Resources](https://github.com/dargaCode/WebDevStudyResources/blob/master/README.md)*
 * *[Portfolio Examples](https://github.com/dargaCode/PortfolioExamples)*
 
-#Logic and Coding Games
+# Logic and Coding Games
 
 Programming-related games are a very popular topic on Reddit and elsewhere. Over the past year I accumulated a ton of saved links, and I've finally sorted through them all. 
 
@@ -522,7 +522,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
   </tbody>
 </table>
 
-##Sources
+## Sources
 
 * [Reddit - 31 Coders Games and Puzzle Sites](https://www.reddit.com/r/learnprogramming/comments/43upct/31_coders_games_and_puzzle_sites/)
 * [Reddit - A friend introduced me to this site that lets you practice security concepts in a game](https://www.reddit.com/r/learnprogramming/comments/3p6osw/a_friend_introduced_me_to_this_site_yesterday/)
