@@ -1,7 +1,6 @@
 ### My Other Resource Lists
 
 * *[Web Development Study Resources](https://github.com/dargaCode/WebDevStudyResources/blob/master/README.md)*
-* *[Portfolio Examples](https://github.com/dargaCode/PortfolioExamples)*
 
 # Logic and Coding Games
 
