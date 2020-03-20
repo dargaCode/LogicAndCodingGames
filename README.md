@@ -504,8 +504,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
     </tr>
     <tr>
       <td><a href="https://github.com/olistic/warriorjs">WarriorJS</a></td>
-      <td></td>
-      <td>Desktop</td>
+      <td>Browser</td>
       <td></td>
       <td></td>
       <td></td>
