@@ -175,14 +175,6 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://glitchspace.com/">GlitchSpace</a></strong></td>
-      <td></td>
-      <td>Desktop</td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><strong><a href="http://store.steampowered.com/app/246070/">Hack 'n' Slash</a></strong></td>
       <td></td>
       <td>Desktop</td>
