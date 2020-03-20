@@ -351,14 +351,6 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td>PS4</td>
     </tr>
     <tr>
-      <td><a href="http://www.puzzle-nonograms.com/">Nonograms</a></td>
-      <td>Browser</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <td><a href="http://www.fallentreegames.com/games/quell/">Quell</a></td>
       <td></td>
       <td></td>
