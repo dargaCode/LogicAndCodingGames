@@ -28,7 +28,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td>Desktop</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>PS4</td>
     </tr>
     <tr>
       <td><a href="https://blockly-games.appspot.com/?lang=en">Blockly Games</a></td>
@@ -348,7 +348,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td>Desktop</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>PS4</td>
     </tr>
     <tr>
       <td><a href="http://www.puzzle-nonograms.com/">Nonograms</a></td>
@@ -452,7 +452,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td>Desktop</td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>PS4</td>
     </tr>
     <tr>
       <td><a href="http://www.kongregate.com/games/duerig/tile-factory">Tile Factory</a></td>
