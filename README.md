@@ -320,10 +320,10 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
     </tr>
     <tr>
       <td><a href="https://apps.apple.com/ca/app/logic-grid-puzzles/id919571269">Logic Grid Puzzles</a></td>
-      <td></td>
+      <td>Browser</td>
       <td></td>
       <td>iOS</td>
-      <td></td>
+      <td>Android</td>
       <td></td>
     </tr>
     <tr>
