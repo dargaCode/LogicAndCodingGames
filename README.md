@@ -55,7 +55,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="https://checkio.org/">CheckiO</a></strong></td>
+      <td><a href="https://checkio.org/">CheckiO</a></td>
       <td>Browser</td>
       <td></td>
       <td></td>
@@ -167,7 +167,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://store.steampowered.com/app/427520/">Factorio</a></strong></td>
+      <td><a href="http://store.steampowered.com/app/427520/">Factorio</a></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
@@ -215,7 +215,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://store.steampowered.com/app/246070/">Hack 'n' Slash</a></strong></td>
+      <td><a href="http://store.steampowered.com/app/246070/">Hack 'n' Slash</a></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
@@ -271,7 +271,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://playthehook.com/">HOOK</a></strong></td>
+      <td><a href="http://playthehook.com/">HOOK</a></td>
       <td></td>
       <td>Desktop</td>
       <td>iOS</td>
@@ -279,7 +279,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://store.steampowered.com/app/375820/">Human Resource Machine</a></strong></td>
+      <td><a href="http://store.steampowered.com/app/375820/">Human Resource Machine</a></td>
       <td></td>
       <td>Desktop</td>
       <td>iOS</td>
@@ -287,7 +287,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://www.zachtronics.com/infinifactory/">Infinifactory</a></strong></td>
+      <td><a href="http://www.zachtronics.com/infinifactory/">Infinifactory</a></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
@@ -295,7 +295,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td>PS4</td>
     </tr>
     <tr>
-      <td><strong><a href="https://schilcote.itch.io/injection">INJECTION</a></strong></td>
+      <td><a href="https://schilcote.itch.io/injection">INJECTION</a></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
@@ -303,7 +303,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://www.stateofplaygames.com/work/kami/">Kami</a></strong></td>
+      <td><a href="http://www.stateofplaygames.com/work/kami/">Kami</a></td>
       <td></td>
       <td>Desktop</td>
       <td>iOS</td>
@@ -367,7 +367,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://pleasingfungus.com/Manufactoria/">Manufactoria</a></strong></td>
+      <td><a href="http://pleasingfungus.com/Manufactoria/">Manufactoria</a></td>
       <td>Browser</td>
       <td></td>
       <td></td>
@@ -375,7 +375,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="https://microcorruption.com/">Microcorruption</a></strong></td>
+      <td><a href="https://microcorruption.com/">Microcorruption</a></td>
       <td>Browser</td>
       <td></td>
       <td></td>
@@ -407,7 +407,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="https://regexcrossword.com/">Regex Crossword</a></strong></td>
+      <td><a href="https://regexcrossword.com/">Regex Crossword</a></td>
       <td>Browser</td>
       <td></td>
       <td></td>
@@ -455,7 +455,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://www.zachtronics.com/spacechem/">SpaceChem</a></strong></td>
+      <td><a href="http://www.zachtronics.com/spacechem/">SpaceChem</a></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
@@ -471,7 +471,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="https://mystery.knightlab.com/">SQL Murder Mystery</a></strong></td>
+      <td><a href="https://mystery.knightlab.com/">SQL Murder Mystery</a></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
@@ -503,7 +503,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="http://www.zachtronics.com/tis-100/">TIS-100</a></strong></td>
+      <td><a href="http://www.zachtronics.com/tis-100/">TIS-100</a></td>
       <td></td>
       <td>Desktop</td>
       <td>iOS</td>
@@ -519,7 +519,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><strong><a href="https://alexnisnevich.github.io/untrusted/">Untrusted</a></strong></td>
+      <td><a href="https://alexnisnevich.github.io/untrusted/">Untrusted</a></td>
       <td>Browser</td>
       <td></td>
       <td></td>
