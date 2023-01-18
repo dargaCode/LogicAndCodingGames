@@ -191,6 +191,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
+      <td><a href="https://www.git-game.com/">The git-game</a></td>
+      <td></td>
+      <td>Desktop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><strong><a href="http://store.steampowered.com/app/246070/">Hack 'n' Slash</a></strong></td>
       <td></td>
       <td>Desktop</td>
@@ -415,19 +423,19 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
+      <td><a href="http://ombgames.com/?p=5">The Sequence</a></td>
+      <td></td>
+      <td>Desktop</td>
+      <td>iOS</td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
       <td><strong><a href="http://www.zachtronics.com/spacechem/">SpaceChem</a></strong></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
       <td>Android</td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong><a href="https://mystery.knightlab.com/">SQL Murder Mystery</a></strong></td>
-      <td></td>
-      <td>Desktop</td>
-      <td></td>
-      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -439,19 +447,11 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
-      <td><a href="https://www.git-game.com/">The git-game</a></td>
+      <td><strong><a href="https://mystery.knightlab.com/">SQL Murder Mystery</a></strong></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
       <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><a href="http://ombgames.com/?p=5">The Sequence</a></td>
-      <td></td>
-      <td>Desktop</td>
-      <td>iOS</td>
-      <td>Android</td>
       <td></td>
     </tr>
     <tr>
