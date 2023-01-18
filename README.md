@@ -391,7 +391,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
     <tr>
       <td><a href="http://www.fallentreegames.com/games/quell/">Quell</a></td>
       <td></td>
-      <td></td>
+      <td>Desktop</td>
       <td>iOS</td>
       <td>Android</td>
       <td></td>
