@@ -103,6 +103,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
+      <td><a href="https://flukeout.github.io/">CSS Diner</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="http://david-peter.de/cube-composer/">Cube Composer</a></td>
       <td>Browser</td>
       <td></td>
@@ -120,6 +128,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
     </tr>
     <tr>
       <td><a href="https://sites.google.com/site/droidquest/Home/downloads">Droid Quest</a></td>
+      <td></td>
+      <td>Desktop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="http://duskers.misfits-attic.com/">Duskers</a></td>
       <td></td>
       <td>Desktop</td>
       <td></td>
@@ -407,6 +423,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
+      <td><a href="http://robozzle.com/">Robo Code</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td>iOS</td>
+      <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="http://robozzle.com/">RoboZZle</a></td>
       <td>Browser</td>
       <td></td>
@@ -545,3 +569,4 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
 * [Reddit - What are some problem solving games that scratch the programming itch?](https://www.reddit.com/r/learnprogramming/comments/3vtk96/what_are_some_problem_solving_games_that_scratch/)
 * [Medium - 12 Free Games to Learn Programming](https://medium.mybridge.co/12-free-resources-learn-to-code-while-playing-games-f7333043de11#.dgkp2ihra)
 * [Medium - Collection of Coders Games to Improve Your Skills](https://medium.com/@ipestov/collection-of-coders-games-to-improve-your-skills-9ea02906d73#.23xou33gm)
+* [Geeks For Geeks - 10 Best Coding Games to Advance Your Programming Skills](https://www.geeksforgeeks.org/10-best-coding-games-to-advance-your-programming-skills/)
