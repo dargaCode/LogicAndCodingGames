@@ -556,6 +556,7 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
