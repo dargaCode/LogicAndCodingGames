@@ -95,6 +95,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/veltman/clmystery">The Command Line Murders</a></td>
+      <td></td>
+      <td>Desktop</td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="http://david-peter.de/cube-composer/">Cube Composer</a></td>
       <td>Browser</td>
       <td></td>
@@ -412,6 +420,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td>Desktop</td>
       <td></td>
       <td>Android</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://mystery.knightlab.com/">SQL Murder Mystery</a></strong></td>
+      <td></td>
+      <td>Desktop</td>
+      <td></td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
