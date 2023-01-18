@@ -167,6 +167,14 @@ This list doesn't contain programming challenge sites like HackerRank. Those are
       <td></td>
     </tr>
     <tr>
+      <td><a href="https://mastery.games/flexboxzombies/">Flexbox Zombies</a></td>
+      <td>Browser</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
       <td><a href="http://www.kongregate.com/games/scriptwelder/gates-of-logic">Gates of Logic</a></td>
       <td>Browser</td>
       <td></td>
