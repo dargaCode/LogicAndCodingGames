@@ -17,6 +17,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <th>iOS&nbsp;</th>
       <th>Android</th>
       <th>PS4&nbsp;</th>
+      <th>Switch</th>
     </tr>
   </thead>
   <tbody>
@@ -27,10 +28,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td>PS4</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://blockly-games.appspot.com/?lang=en">Blockly Games</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -43,6 +46,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://twolivesleft.com/CargoBot/">Cargo-Bot</a></td>
@@ -51,10 +55,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://checkio.org/">CheckiO</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -67,10 +73,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://www.playcodemonkey.com/">CodeMonkey</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -83,10 +91,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://www.codingame.com/start">CodinGame</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -99,10 +109,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://flukeout.github.io/">CSS Diner</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -115,10 +127,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://deadlockempire.github.io/">Deadlock Empire</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -131,6 +145,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://duskers.misfits-attic.com/">Duskers</a></td>
@@ -139,10 +154,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://play.elevatorsaga.com/">Elevator Saga</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -155,10 +172,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://empireofcode.com/">Empire of Code</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -171,10 +190,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td>Switch</td>
     </tr>
     <tr>
       <td><a href="http://www.flexboxdefense.com/">Flexbox Defense</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -187,10 +208,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://mastery.games/flexboxzombies/">Flexbox Zombies</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -203,11 +226,13 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://www.git-game.com/">The git-game</a></td>
       <td></td>
       <td>Desktop</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -219,10 +244,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.hacker.org/">Hacker.org</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -235,6 +262,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://ombgames.com/?p=10">Hard Logic</a></td>
@@ -243,12 +271,14 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td>Android</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.matthewbrowngames.com/hexcells.html">Hexcells</a></td>
       <td></td>
       <td>Desktop</td>
       <td>iOS</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -259,12 +289,14 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.matthewbrowngames.com/hexcellsinfinite.html">Hexcells Infinite</a></td>
       <td></td>
       <td>Desktop</td>
       <td>iOS</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -275,12 +307,14 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td>Android</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://store.steampowered.com/app/375820/">Human Resource Machine</a></td>
       <td></td>
       <td>Desktop</td>
       <td>iOS</td>
+      <td></td>
       <td></td>
       <td></td>
     </tr>
@@ -291,11 +325,13 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td>PS4</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://schilcote.itch.io/injection">INJECTION</a></td>
       <td></td>
       <td>Desktop</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -307,10 +343,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td>Android</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.zachtronics.com/kohctpyktop-engineer-of-the-people/">Kohctpyktop: Engineer of the People</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -323,10 +361,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.kongregate.com/games/Coolio_Niato/light-bot">Light-Bot</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -339,10 +379,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.kongregate.com/games/Coolio_Niato/light-bot-rewired">Light-Bot Rewired</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -355,6 +397,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://apps.apple.com/ca/app/logic-grid-puzzles/id919571269">Logic Grid Puzzles</a></td>
@@ -363,10 +406,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td>Android</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://pleasingfungus.com/Manufactoria/">Manufactoria</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -379,6 +424,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://store.steampowered.com/app/287980/">Mini Metro</a></td>
@@ -387,6 +433,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td>PS4</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.fallentreegames.com/games/quell/">Quell</a></td>
@@ -394,6 +441,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>Desktop</td>
       <td>iOS</td>
       <td>Android</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -403,10 +451,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://regexcrossword.com/">Regex Crossword</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -419,6 +469,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td>Android</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://robozzle.com/">Robo Code</a></td>
@@ -426,6 +477,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td>iOS</td>
       <td>Android</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -435,11 +487,13 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td>Android</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://screeps.com/">Screeps</a></td>
       <td>Browser</td>
       <td>Desktop</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -451,6 +505,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td>Android</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.zachtronics.com/spacechem/">SpaceChem</a></td>
@@ -458,6 +513,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>Desktop</td>
       <td></td>
       <td>Android</td>
+      <td></td>
       <td></td>
     </tr>
     <tr>
@@ -467,11 +523,13 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://mystery.knightlab.com/">SQL Murder Mystery</a></td>
       <td></td>
       <td>Desktop</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -483,6 +541,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td>PS4</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://store.steampowered.com/app/257510/?snr=1_5_1100__1100">The Talos Principle</a></td>
@@ -491,10 +550,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td>PS4</td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.kongregate.com/games/duerig/tile-factory">Tile Factory</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -507,6 +568,7 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://www.trainyard.ca/">Trainyard</a></td>
@@ -515,10 +577,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td>iOS</td>
       <td>Android</td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://alexnisnevich.github.io/untrusted/">Untrusted</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -531,10 +595,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="http://vindinium.org/">Vindinium</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -547,10 +613,12 @@ Programming-related games are a very popular topic on Reddit and elsewhere. Thes
       <td></td>
       <td></td>
       <td></td>
+      <td></td>
     </tr>
     <tr>
       <td><a href="https://github.com/olistic/warriorjs">WarriorJS</a></td>
       <td>Browser</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
